@@ -9,3 +9,6 @@ Registrar minha evolucao nos estudos de Tecnologia da Informacao.
 ## GitHub
 
 GitHub e uma plataforma utilizada para armazenar e compartilhar repositorios Git.
+## Organizacao dos estudos
+
+Este repositorio sera atualizado conforme meu avanco nos estudos de Tecnologia da Informacao.
