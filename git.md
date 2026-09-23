@@ -25,3 +25,7 @@ As alterações são desenvolvidas em uma branch separada antes de serem integra
 ## Git Pull
 
 Git pull traz para o repositório local as alterações que estão no repositório remoto.
+
+## Git Fetch
+
+Git fetch busca informações e alterações do repositório remoto sem alterar automaticamente os arquivos da branch local.
