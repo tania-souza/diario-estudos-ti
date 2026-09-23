@@ -29,3 +29,9 @@ Git pull traz para o repositório local as alterações que estão no repositór
 ## Git Fetch
 
 Git fetch busca informações e alterações do repositório remoto sem alterar automaticamente os arquivos da branch local.
+
+## Diferença entre Fetch e Pull
+
+Git fetch busca as atualizações do repositório remoto sem alterar a branch local.
+
+Git pull busca as atualizações do repositório remoto e integra essas alterações à branch local.
