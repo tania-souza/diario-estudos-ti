@@ -21,3 +21,7 @@ O comando git status mostra o estado atual dos arquivos do projeto.
 
 GitHub Flow é um fluxo de trabalho baseado em branches.
 As alterações são desenvolvidas em uma branch separada antes de serem integradas à branch principal.
+
+## Git Pull
+
+Git pull traz para o repositório local as alterações que estão no repositório remoto.
