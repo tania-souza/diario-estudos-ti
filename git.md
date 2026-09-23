@@ -39,3 +39,15 @@ Git pull busca as atualizações do repositório remoto e integra essas alteraç
 ## Git Diff
 
 Git diff mostra as diferenças entre os arquivos modificados e a última versão registrada pelo Git.
+
+## Git Add
+
+Git add envia alterações do Working Directory para a Staging Area.
+
+## Git Commit
+
+Git commit registra no histórico do repositório as alterações que estão na Staging Area.
+
+## Git Push
+
+Git push envia os commits locais para o repositório remoto, como o GitHub.
