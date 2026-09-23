@@ -1,6 +1,6 @@
 ## Branches
 
-Branches permitem desenvolver alteracoes separadamente da linha principal do projeto.
+Branches permitem desenvolver alterações de forma isolada da linha principal do projeto.
 
 ## Merge
 
